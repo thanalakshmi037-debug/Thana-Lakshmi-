@@ -163,7 +163,7 @@ public class Thanalakshmi {
 ## Education
 
 ```
-2024 — 2028   B.E. Computer Science Engineering | CGPA: 8.41
+2024 — 2028   B.E. Computer Science Engineering | CGPA: 8.76
               Scad College of Engineering and Technology, Tamil Nadu
 
 2023 — 2024   Higher Secondary Certificate (12th) | 78%
