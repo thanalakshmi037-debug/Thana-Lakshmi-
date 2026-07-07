@@ -1,4 +1,4 @@
-<div align="center">
+ii<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=220&section=header&text=Thanalakshmi%20A&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI/UX%20Designer%20%7C%20Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=18" width="100%"/>
 
@@ -73,8 +73,6 @@ public class Thanalakshmi {
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Responsive%20Design-1572B6?style=flat-square"/>
 
 **🔧 Tools**
-
-## 🔧 Tools
 
 <p align="left">
 
